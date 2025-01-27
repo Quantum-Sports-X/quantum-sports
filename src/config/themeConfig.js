@@ -60,7 +60,7 @@ export const mailChimpUrl = `https://gmail.us1.list-manage.com/subscribe/post?u=
 
 // Emailjs Config (Contact Form)
 export const emailjsConfig = {
-  templateId: "template_si6sin9",
-  serviceId: "service_i86k6ms",
-  userId: "c9HsDgGF6tvWyV6AL",
+  templateId: "template_ao342it",
+  serviceId: "service_zlpn4un",
+  publicKey: "YiFyptZ2XUHc6TTnK"
 };

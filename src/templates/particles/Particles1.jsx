@@ -40,7 +40,8 @@ const Particles1 = () => {
               {/* Logo */}
               <a className="logo" href="index.html" title="Zoon">
                 {" "}
-                <img src="images/logo.png" alt="Zoon" />{" "}
+                <h4 className="text-white-50">Quantum Sports</h4>
+                {/*<img src="images/logo.png" alt="Zoon" />{" "}*/}
               </a>
               {/* Logo End */}
             </div>
