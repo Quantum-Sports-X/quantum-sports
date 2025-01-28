@@ -36,16 +36,16 @@ const Particles1 = () => {
         {/* Navbar */}
         <nav className="primary-menu navbar navbar-expand-md navbar-text-light bg-transparent border-bottom-0">
           <div className="container position-relative">
-            <div className="col-auto col-lg-2">
+            <div className="col-auto col-lg-6">
               {/* Logo */}
-              <a className="logo" href="index.html" title="Zoon">
+              <a className="logo text-decoration-none" href="index.html" title="Zoon">
                 {" "}
-                <h4 className="text-white-50">Quantum Sports</h4>
+                <h1 className="text-white">quantumsports.ai</h1>
                 {/*<img src="images/logo.png" alt="Zoon" />{" "}*/}
               </a>
               {/* Logo End */}
             </div>
-            <div className="col col-lg-8 navbar-accordion px-0">
+            <div className="col col-lg-6 navbar-accordion px-0">
               <button
                 className="navbar-toggler ms-auto"
                 type="button"
